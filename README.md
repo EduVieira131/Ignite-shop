@@ -17,8 +17,8 @@ Developed in the latest version of Next.js (Version 14.0) at the moment, the pro
 You can clone this project and install the dependencies with the following command:
 
 ```sh
-git https://github.com/EduVieira131/NLW-IA.git
-cd NLW-IA
+git https://github.com/EduVieira131/Ignite-shop
+cd Ignite-shop
 npm install
 npm run dev
 ```
